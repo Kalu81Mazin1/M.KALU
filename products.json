@@ -1,0 +1,55 @@
+[
+  {
+    "id": "p1",
+    "name": "Classic Heavyweight Tee",
+    "price": 25000,
+    "category": "T-shirts",
+    "description": "Our signature heavyweight cotton tee. Boxy fit, dropped shoulders, and a premium feel that lasts. Made from 100% organic cotton (300 GSM).",
+    "images": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&q=80&w=800"
+    ],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "isBestSeller": true,
+    "stockCount": 12
+  },
+  {
+    "id": "p2",
+    "name": "Urban Oversized Hoodie",
+    "price": 45000,
+    "category": "Hoodies",
+    "description": "The ultimate urban essential. Double-lined hood, kangaroo pocket, and a structured fit that holds its shape. Brushed fleece interior for maximum comfort.",
+    "images": [
+      "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1513188732907-5f732b83dca8?auto=format&fit=crop&q=80&w=800"
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "isNew": true,
+    "stockCount": 5
+  },
+  {
+    "id": "p3",
+    "name": "Modern Linen Shirt",
+    "price": 35000,
+    "category": "Shirts",
+    "description": "Breathable, premium linen-blend shirt for the modern minimalist. Perfect for summer evenings or layered over a white tee.",
+    "images": [
+      "https://images.unsplash.com/photo-1598033129183-c4f50c717658?auto=format&fit=crop&q=80&w=800"
+    ],
+    "sizes": ["S", "M", "L", "XL"],
+    "stockCount": 8
+  },
+  {
+    "id": "p4",
+    "name": "Slim Fit Cargo Trousers",
+    "price": 40000,
+    "category": "Trousers",
+    "description": "Versatile cargo trousers with a tailored touch. Multiple pockets without the bulk. Made from stretch-cotton twill.",
+    "images": [
+      "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&q=80&w=800"
+    ],
+    "sizes": ["30", "32", "34", "36"],
+    "isBestSeller": true,
+    "stockCount": 15
+  }
+]
